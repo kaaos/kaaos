@@ -1,5 +1,5 @@
 <div>
-<img src="https://camo.githubusercontent.com/41e5e3a6bf3fd81812661600e607e6a54e5a126d3a2ad2a789fff16803b7a841/68747470733a2f2f692e696d6775722e636f6d2f593154414d6d6d2e706e67" style="max-width: 100%;" height="200em">
+<img src="https://camo.githubusercontent.com/41e5e3a6bf3fd81812661600e607e6a54e5a126d3a2ad2a789fff16803b7a841/68747470733a2f2f692e696d6775722e636f6d2f593154414d6d6d2e706e67" style="max-width: 50%;" height="150em">
 
 <h2> 👋 Hi there, my name is Eduardo! Check my Linkedin profile and connect with me! </h2>
 
