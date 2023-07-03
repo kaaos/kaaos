@@ -4,7 +4,7 @@
 <h2> 👋 Hi there, my name is Eduardo! Check my Linkedin profile and connect with me! </h2>
 
 <h3>- 🌱 I’m currently learning software development fundamentals, linux environment, C, Python and Java.</h3>
-<h3>- 👀 I’m interested in learn and get a job. </h3>
+<h3>- 👀 I’m interested in learning and get a job. </h3>
 <h3>- 💞️ I’m looking to collaborate on any project to get xp.</h3>
 <h3>- ⚡ Fun fact: I’m a private helicopter pilot, and I love photography and drones.</h3>
 <h3>- 📫 I'm at discord(@zos718) and Linkedin pm me. <a href="https://www.linkedin.com/in/eduardo-botelho-17015958" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
